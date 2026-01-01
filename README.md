@@ -1,6 +1,6 @@
 # Social-Buddy-Privacy-Policy
 
-Last Updated: 29/11/2025
+Last Updated: 01/01/2026
 
 Social Buddy ("we", "our", or "the App") is a personal conversation-assistant application designed to help users improve texting, generate responses, and manage social interactions more effectively. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information.
 
@@ -84,8 +84,6 @@ We do NOT share your data with advertisers or third parties for marketing.
 5. Data Retention
 
 We retain:
-
-Locally stored templates until you delete them
 
 Subscription tokens while your subscription is active
 
